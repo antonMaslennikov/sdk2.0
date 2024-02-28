@@ -83,5 +83,5 @@
     "issues": "https://github.com/cdek-it/sdk2.0/issues",
     "docs": "https://github.com/cdek-it/sdk2.0/blob/master/README.md"
   },
-  minimum-stability
+  "minimum-stability": "dev"
 }
